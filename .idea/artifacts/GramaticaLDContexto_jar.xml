@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GramaticaLDContexto:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GramaticaLDContexto_jar</output-path>
+    <root id="archive" name="GramaticaLDContexto.jar">
+      <element id="module-output" name="GramaticaLDContexto" />
+    </root>
+  </artifact>
+</component>
